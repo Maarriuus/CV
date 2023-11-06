@@ -1,4 +1,3 @@
-`remote_theme: minimal`
 # CV Portfolio de Marius Peny
 ![Photo de Marius](./bvcv.jpg)
 
