@@ -1,3 +1,4 @@
+`remote_theme: JEKYLL_RESUME`
 # CV Portfolio de Marius Peny
 ![Photo de Marius](./bvcv.jpg)
 
